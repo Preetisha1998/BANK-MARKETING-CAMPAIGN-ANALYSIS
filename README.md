@@ -1,2 +1,2 @@
-# Bank_marketing_campaign
+# Bank_marketing_campaign_analysis
 Predict if the client will subscribe to a term deposit based on the analysis of the marketing campaigns the bank performed.
